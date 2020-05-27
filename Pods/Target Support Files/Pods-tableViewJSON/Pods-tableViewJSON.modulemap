@@ -1,0 +1,6 @@
+module Pods_tableViewJSON {
+  umbrella header "Pods-tableViewJSON-umbrella.h"
+
+  export *
+  module * { export * }
+}
